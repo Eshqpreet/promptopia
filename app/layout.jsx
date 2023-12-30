@@ -2,6 +2,9 @@
 import "@styles/globals.css"
 import Nav from "@components/Nav"
 import Provider from "@components/Provider"
+
+<link rel="icon" href="/favicon.ico" sizes="any" />
+
 export const metadata = {
     title: "Promptopia",
     description: "Discover & Share AI Prompts"
